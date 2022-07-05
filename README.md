@@ -1,7 +1,8 @@
 # Bathroom Butler C++
  A C++ retro game 
 
-This was originally a first-week project in a course in game development imparted by Javier Agenjo from UPF, the first project was organized like a game jam, the theme was FAMILY. The basis of the project was his framework which wraps around SDL2 and some of OpenGL's functionality.
+This was originally a first-week project in a course in game development imparted by Javier Agenjo from UPF, the first project was organized like a game jam, the theme was FAMILY and the requirements were 2D graphics, low window res and it had to be playable with as many buttons as a NES controller had. 
+The basis of the project was Javier Agenjo's framework which wraps around SDL2 and some of OpenGL's functionality.
 
 A small arcade-like game about managing the queue of a bathroom.
 
