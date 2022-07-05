@@ -12,3 +12,5 @@ There are two types of levels, score levels require fulfilling a point objective
 Have fun!
 
 This was originally a first-week project in a course in game development, the first project was organized like a game jam, the theme was FAMILY. 
+
+Initially done as part of a course on modern computer graphics, imparted by Javier Agenjo, teacher of the UPF. The basis of the project was his framework which wraps around SDL2 and some of OpenGL's functionality.
