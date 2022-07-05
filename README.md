@@ -1,17 +1,17 @@
 # Bathroom Butler C++
  A C++ retro game 
 
+This was originally a first-week project in a course in game development imparted by Javier Agenjo from UPF, the first project was organized like a game jam, the theme was FAMILY. The basis of the project was his framework which wraps around SDL2 and some of OpenGL's functionality.
+
 A small arcade-like game about managing the queue of a bathroom.
 
-Music done by Víctor Sedano (find him at @victorsedano18).
+Send each person to the most appropriate bathroom according to their necessities, the overall goal is to last as long as possible and accumulate as many points as you can.
 
-Send each person to the most appropriate bathroom according to their necessities, the overall goal is to last as long as possible and accumulate as many points as you can. Also, the game scales the difficulty of each level according to your performance.
+This is the original version presented during the course, a Unity remake is available here:
 
-There are two types of levels, score levels require fulfilling a point objective in order to proceed and in time levels, the player just needs to survive for a set amount of time.
+https://rampantcereal.itch.io/bathroom-butler
 
-Have fun!
+Some of the features of the remake are different objectives for each round, performance based difficulty scaling and original music.
 
-This was originally a first-week project in a course in game development, the first project was organized like a game jam, the theme was FAMILY. 
-
-Initially done as part of a course on modern computer graphics, imparted by Javier Agenjo, teacher of the UPF. The basis of the project was his framework which wraps around SDL2 and some of OpenGL's functionality.
-![Partida](https://user-images.githubusercontent.com/12513993/177317137-70a13fc6-e8f7-4c22-93da-befb0814f938.png)
+Screenshot:
+![177317137-70a13fc6-e8f7-4c22-93da-befb0814f938](https://user-images.githubusercontent.com/12513993/177319281-6a0d80ee-4c52-4ec8-8437-05e8b65e7910.png)
